@@ -1,5 +1,8 @@
 div {
     background-color: red;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Times New Roman', Courier, monospace;
     text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 32px;
 }
